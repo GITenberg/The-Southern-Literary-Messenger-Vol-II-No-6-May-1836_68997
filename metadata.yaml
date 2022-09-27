@@ -1,5 +1,8 @@
 _repo: The-Southern-Literary-Messenger-Vol-II-No-6-May-1836_68997
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68997#The-Southern-Literary-Messenger-Vol-II-No-6-May-1836
 gutenberg_issued: '2022-09-16'
 identifiers:
   gutenberg: '68997'
